@@ -42,4 +42,4 @@ def runworkers(num_params, max_iters, num_runs, max_workers):
 
 
 if __name__ == '__main__':
-    print runworkers(20, 400, 5, 5)
+    print runworkers(20, 5, 1, 1)
